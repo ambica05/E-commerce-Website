@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Niconne&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cursive-heading {
+  font-family: 'Niconne', sans-serif;
+  font-style: italic;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.text-lg
+{
+  font-size: 1.5rem;
+} 
+
+.h-12{
+  height: 5rem;
+}
+
+.h-10 {
+  height: 10rem;
+}
+
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, #979eaa 0%, #424141 100%);
+  }
+  
+  .bg-gradient-secondary {
+    background: linear-gradient(135deg, #353434 0%, #353434 100%);
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105;
+  }
+  
+  .btn-secondary {
+    @apply bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1;
+  }
+}
