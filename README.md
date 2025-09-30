@@ -20,10 +20,10 @@ Icons: Lucide React
 
 Routing: React Router v7
 
-# Installation & Setup
+## Installation & Setup
 **1. Clone the repository**
-   ## git clone https://github.com/your-username/shiva-sai-caterers.git
-  ## cd shiva-sai-caterers
+   git clone https://github.com/your-username/shiva-sai-caterers.git
+  cd shiva-sai-caterers
 
 **2. Install dependencies**
    ## npm install
@@ -130,6 +130,7 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
 
 
 
