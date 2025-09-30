@@ -6,9 +6,10 @@ A modern catering services website built with React, TypeScript, Vite, TailwindC
 Deployed at https://shivasaicaterers.netlify.app/
 # Tech Stack
 
-Framework: React 18
- + TypeScript
- + 
+Framework: 
++ React 18
++ TypeScript
+  
 Build Tool: Vite
 
 Styling: TailwindCSS
@@ -149,3 +150,4 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
