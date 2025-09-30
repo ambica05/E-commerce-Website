@@ -22,25 +22,25 @@ Routing: React Router v7
 
 # Installation & Setup
 **1. Clone the repository**
-  git clone https://github.com/your-username/shiva-sai-caterers.git
-  cd shiva-sai-caterers
+   ## git clone https://github.com/your-username/shiva-sai-caterers.git
+  ## cd shiva-sai-caterers
 
 **2. Install dependencies**
-  npm install
+   ## npm install
   or
-  yarn install
+   ## yarn install
 
 **3. Start development server**
-  npm run dev
+   ## npm run dev
 
-Runs the app at http://localhost:5173
+ ## Runs the app at http://localhost:5173
 
 
 **4. Build for production**
-  npm run build
+   ## npm run build
 
 **5. Preview production build**
-  npm run preview
+   ## npm run preview
 
 # Project Structure
 <img width="289" height="776" alt="image" src="https://github.com/user-attachments/assets/440255a0-e8bc-4df0-aa8b-03c2de0440d8" />
@@ -48,13 +48,13 @@ Runs the app at http://localhost:5173
 
 # Available Scripts
 
-  npm run dev → Start development server
+   ## npm run dev → Start development server
   
-  npm run build → Build project for production
+   ## npm run build → Build project for production
   
-  npm run preview → Preview production build
+   ## npm run preview → Preview production build
   
-  npm run lint → Run ESLint checks
+  ## npm run lint → Run ESLint checks
 
 # Features
 
@@ -77,7 +77,7 @@ https://shivasaicaterers.netlify.app/
 
 **For deployment:**
 
-  npm run build
+   ## npm run build
 
 # Upload the dist/ folder to Netlify
 
@@ -91,25 +91,25 @@ Fork the repository
 
 Clone your fork
 
-  git clone https://github.com/your-username/shiva-sai-caterers.git
-  cd shiva-sai-caterers
+   ## git clone https://github.com/your-username/shiva-sai-caterers.git
+   ## cd shiva-sai-caterers
 
 
 Create a new branch
 
-  git checkout -b feature/your-feature-name
+   ## git checkout -b feature/your-feature-name
 
 
 Make your changes
 
 Commit your changes
 
-  git commit -m "Add: your feature description"
+   ## git commit -m "Add: your feature description"
 
 
 Push to your branch
 
-  git push origin feature/your-feature-name
+   ## git push origin feature/your-feature-name
 
 
 Create a Pull Request (PR)
@@ -130,5 +130,6 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
 
 
