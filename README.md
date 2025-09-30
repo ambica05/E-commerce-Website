@@ -10,7 +10,8 @@ Framework:
 + React 18
 + TypeScript
   
-Build Tool: Vite
+Build Tool: 
+Vite
 
 Styling: TailwindCSS
 
@@ -21,7 +22,7 @@ Icons: Lucide React
 Routing: React Router v7
 
 # Installation & Setup
-**1. Clone the repository:**\n
+**1. Clone the repository:**
 
     git clone https://github.com/your-username/shiva-sai-caterers.git
     cd shiva-sai-caterers
@@ -135,6 +136,7 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
 
 
 
