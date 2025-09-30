@@ -23,12 +23,12 @@ Routing: React Router v7
 # Installation & Setup
 **1. Clone the repository:**\n
 
-     git clone https://github.com/your-username/shiva-sai-caterers.git
+    git clone https://github.com/your-username/shiva-sai-caterers.git
     cd shiva-sai-caterers
 
 **2. Install dependencies**
 
-     npm install
+    npm install
     or
     yarn install
 
@@ -135,6 +135,7 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
 
 
 
