@@ -1,10 +1,9 @@
 ﻿# E-commerce-Website
 
-# Shiva Sai Caterers 🍴
+# Shiva Sai Caterers 
 
 A modern catering services website built with React, TypeScript, Vite, TailwindCSS, and Framer Motion.
-Deployed at 👉_ shivasaicaterers.netlify.app_
-
+Deployed at https://shivasaicaterers.netlify.app/
 # Tech Stack
 
 Framework: React 18
@@ -93,7 +92,7 @@ Deployed on Netlify with CI/CD support
 #  Deployment
 
 Currently deployed on Netlify:
-👉 _shivasaicaterers.netlify.app_
+https://shivasaicaterers.netlify.app/
 
 **For deployment:**
 
