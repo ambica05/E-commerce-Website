@@ -43,28 +43,8 @@ npm run build
 npm run preview
 
 # Project Structure
-├── public/                  # Public assets (served directly)
-│   └── assets/              # Images & logos
-│       ├── Home.jpg
-│       ├── loading_page.jpg
-│       └── Logo.png
-│
-├── src/                     # Source code
-│   ├── components/          # Reusable UI components
-│   ├── data/                # Static or mock data
-│   ├── pages/               # Page-level components
-│   ├── App.tsx              # Root app component
-│   ├── index.css            # Global styles
-│   ├── main.tsx             # Entry point
-│   └── vite-env.d.ts        # Vite TypeScript types
-│
-├── index.html               # Main HTML template
-├── package.json             # Scripts & dependencies
-├── tailwind.config.js       # TailwindCSS config
-├── vite.config.ts           # Vite configuration
-├── tsconfig.json            # TypeScript config
-├── eslint.config.js         # ESLint config
-└── README.md                # Documentation
+<img width="289" height="776" alt="image" src="https://github.com/user-attachments/assets/440255a0-e8bc-4df0-aa8b-03c2de0440d8" />
+
 
 # Available Scripts
 
@@ -150,4 +130,5 @@ Keep commits small and descriptive
 
 Developed by Bommu Ambica Ujjaini
 Feel free to fork, improve, and contribute!
+
 
